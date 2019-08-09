@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(DemoApplication.class, args);
-        System.out.println("我吧打印内容修改了一下，测试git提交一下");
+        System.out.println("我把刚刚创建的dev分支打印内容改了！");
     }
 
 }
