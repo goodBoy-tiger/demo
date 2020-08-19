@@ -11,6 +11,7 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("我把刚刚创建的dev分支打印内容改了！");
         System.out.println("nihojj");
+        System.out.println("这是我在dev2上开发");
     }
 
 }
