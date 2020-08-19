@@ -13,6 +13,8 @@ public class DemoApplication {
         System.out.println("nihojj");
         System.out.println("这是我在dev2上开发");
         System.out.println("这是我在dev2上开发");
+        System.out.println("nijljkjljlj");
+        System.out.println("gdafsadf");
     }
 
 }
