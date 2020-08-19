@@ -17,7 +17,6 @@ public class DemoApplication {
         System.out.println("gdafsadf");
 
         System.out.println("gdafsadf");
-        System.out.println("gdafsadf");
     }
 
 }
